@@ -33,6 +33,9 @@
 .seccion22{
     background-color: forestgreen;
     width: 20%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 .cuadrados2{
     background-color: darkgreen;
