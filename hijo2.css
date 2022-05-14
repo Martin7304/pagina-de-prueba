@@ -1,0 +1,41 @@
+.hijo2{
+    background-color: black;
+    display: flex;
+}
+
+
+.seccion11{
+    background-color: rgb(86, 86, 90);
+    width: 80%;
+}
+
+
+.cuadrados{
+    background-color: rgb(86, 86, 90);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+
+.cuadraditos{
+    background-color: rgb(66, 66, 250);
+    width: 43%;
+    height: 250px;
+}
+.rectangulo{
+    background-color: blueviolet;
+}
+
+
+
+.seccion22{
+    background-color: forestgreen;
+    width: 20%;
+}
+.cuadrados2{
+    background-color: darkgreen;
+    width: 80%;
+    height: 250px;
+}
