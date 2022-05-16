@@ -1,0 +1,51 @@
+.hijo2{
+    background-color: black;
+    display: flex;
+}
+
+
+.seccion11{
+    background: url(../imagenes/fondo2.JPG);
+    background-position: center;
+    background-attachment: contain;
+    background-size: cover;
+    width: 80%;
+}
+
+
+.cuadrados{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+
+.cuadraditos{
+    border-width: 3px;
+    border-color: black;
+    border-style: solid;
+    width: 43%;
+    height: 250px;
+}
+.rectangulo{
+    background-color: azure;
+}
+
+
+
+.seccion22{
+    background-color: aliceblue;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.cuadrados2{
+    background-color: darkgreen;
+    width: 80%;
+    height: 250px;
+}
+.textoinf{
+    font-size: 20px;
+}
