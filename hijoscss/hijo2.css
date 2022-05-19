@@ -17,16 +17,19 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    
 
 }
 
 
 .cuadraditos{
+    background: rgba(0, 0, 0, .4  );
     border-width: 3px;
     border-color: black;
     border-style: solid;
     width: 43%;
     height: 250px;
+    overflow: scroll;
 }
 .rectangulo{
     background-color: azure;
